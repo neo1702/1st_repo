@@ -1,2 +1,2 @@
 # 1st_repo
-This is my first repository
+Hey there!!! this is neo.... m new to github and linux...!!!!
